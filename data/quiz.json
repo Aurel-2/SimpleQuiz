@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+            "Paris",
+            "Londres",
+            "Berlin",
+            "Madrid"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Quelle est la valeur de 2+2 ?",
+        "options": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qui a \u00e9crit 'Rom\u00e9o et Juliette' ?",
+        "options": [
+            "Victor Hugo",
+            "Shakespeare",
+            "Moli\u00e8re",
+            "Albert Camus"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Quel est le carr\u00e9 de  4 ?",
+        "options": [
+            "8",
+            "32",
+            "16",
+            "12"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Quelle est la capitale de la Chine ?",
+        "options": [
+            "P\u00e9kin",
+            "Tokyo",
+            "S\u00e9oul",
+            "Jakarta"
+        ],
+        "correct": 0
+    }
+]
